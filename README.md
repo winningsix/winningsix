@@ -1,4 +1,6 @@
-### Hi there 👋
+### About Me
+- Working on Big Data Frameworks (e.g., Hive, Prestodb)
+- Work in **Intel Big Data Framework** team as engineering manager.
 
 ![](https://github-readme-stats.vercel.app/api?username=winningsix)
 
