@@ -1,6 +1,7 @@
 ### About Me
 - Working on Big Data Frameworks (e.g., Hive, Prestodb)
 - Work in **Intel Big Data Framework** team as engineering manager.
+- We're Hiring! Please contact me via [cheng.a.xu@intel.com](mailto:cheng.a.xu@intel.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=winningsix)
 
