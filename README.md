@@ -1,5 +1,5 @@
 ### About Me
-- Working on Big Data Frameworks (e.g., Hive, Prestodb)
+- Working on Big Data Frameworks (e.g., Spark, Trino, Prestodb)
 - Work in **Intel Big Data Framework** team as engineering manager.
 - We're Hiring! Please contact me via [cheng.a.xu@intel.com](mailto:cheng.a.xu@intel.com)
 
