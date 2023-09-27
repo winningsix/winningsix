@@ -1,7 +1,7 @@
 ### About Me
 - Working on Big Data Frameworks (e.g., Spark, Trino, Prestodb)
-- Work in **Intel Big Data Framework** team as engineering manager.
-- We're Hiring! Please contact me via [cheng.a.xu@intel.com](mailto:cheng.a.xu@intel.com)
+- Currently focus on Rapids Spark project
+- Pior to that, I worked in **Intel Big Data Framework** team as engineering manager.
 
 ![](https://github-readme-stats.vercel.app/api?username=winningsix)
 
