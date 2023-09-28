@@ -1,7 +1,7 @@
 ### About Me
 - Working on Big Data Frameworks (e.g., Spark, Trino, Prestodb)
-- Currently focus on Rapids Spark project
-- Pior to that, I worked in **Intel Big Data Framework** team as engineering manager.
+- Currently focus on **Spark Rapids project** at Nvidia
+- Pior to that, I worked in Intel Big Data Framework team as engineering manager.
 
 ![](https://github-readme-stats.vercel.app/api?username=winningsix)
 
